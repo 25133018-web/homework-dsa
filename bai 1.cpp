@@ -2,11 +2,7 @@
 #include<string>
 #include<stack>
 using namespace std;
-// co so ly luan va thuc tien
-//Van dung cua dang
-//thuc trang ve van de
-// nguyen nhan khach quan va chu quan
-//
+
 int main (){
 	string str;
 	stack <char> st;
